@@ -11,3 +11,5 @@ credits to forlorn for base
 updating soon turning iinto a half usable decent module.
 
 updated for version-89b6c70d8f7f42ac
+
+discord.gg/getolive
